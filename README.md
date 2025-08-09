@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saydain 👋</h1>
 <p align="center"><b>AI/ML Engineer</b> · M.S. Data Science @ Stevens ('25)</p>
 <p align="center">
-  <a href="saydains786@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:saydains786@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/saydain-sheikh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://drive.google.com/file/d/1sj2xQaeBQNXfyd-pHW8lasdp7eGFlr29/view?usp=drive_link" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-6f42c1?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=saydainsk&style=for-the-badge"/>
