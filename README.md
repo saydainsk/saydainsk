@@ -3,7 +3,7 @@
 <p align="center">
   <a href="mailto:saydains786@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/saydain-sheikh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1sj2xQaeBQNXfyd-pHW8lasdp7eGFlr29/view?usp=drive_link" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-6f42c1?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+  <a href="RESUME_LINK_HERE" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-6f42c1?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=saydainsk&style=for-the-badge"/>
 </p>
 
@@ -59,6 +59,15 @@
 </p>
 
 <sub>📂 Put PNG/GIF screenshots in <code>/assets</code> with the same names to light up the gallery (or rename here).</sub>
+
+#### 🔹 Pinned repo one‑liners (copy into each repo’s **About**)
+
+* **ECG Heartbeat Classification** — Arrhythmia detection with XGBoost & NN; **99% precision / 97% recall (normal beats)**; thorough EDA + error analysis.
+* **Credit Card Fraud Predictive System** — End‑to‑end imbalanced learning pipeline (cost‑sensitive models, stratified CV); PR curve + **lift @ top‑k** monitoring.
+* **Twitter Sentiment Analysis** — Custom tokenizer → **+20% data quality**; final model at **85% accuracy** on held‑out tweets.
+* **Telecom Churn (PCA + Logistic Regression)** — Dimensionality reduction + interpretable coefficients; stable AUC with clean diagnostics.
+* **Bike Sharing Demand** — Feature‑engineered regressors; model comparison with residual checks + cross‑validation.
+* **USC Healthcare Hackathon** — Reproducible health analytics notebooks and datasets; clear README for quick runs.
 
 ---
 
@@ -164,8 +173,8 @@ sequenceDiagram
 
 ### 📬 Get in touch
 
-* Email: **saydains786@gmail.com**
-* LinkedIn: **https://www.linkedin.com/in/saydain-sheikh/**
+* Email: **[saydains786@gmail.com](mailto:saydains786@gmail.com)**
+* LinkedIn: **[https://www.linkedin.com/in/saydain-sheikh/](https://www.linkedin.com/in/saydain-sheikh/)**
 * Open to: **AI/ML Engineer, Data Scientist** roles · NYC/Remote (update as needed)
 
 ---
