@@ -172,7 +172,7 @@ sequenceDiagram
 ### 📬 Get in touch
 
 * Email: **[sheikhsaydain@gmail.com](mailto:sheikhsaydain@gmail.com)**
-* LinkedIn: **[https://www.linkedin.com/in/saydain-sheikh/](https://www.linkedin.com/in/saydain-sheikh/)**
+* LinkedIn: **[https://www.linkedin.com/in/sheikhsk/](https://www.linkedin.com/in/sheikhsk/)**
 * Open to: **AI/ML Engineer, Data Scientist** roles · NYC/Remote (update as needed)
 
 ---
