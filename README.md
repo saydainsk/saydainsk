@@ -173,6 +173,6 @@ sequenceDiagram
 
 * Email: **[sheikhsaydain@gmail.com](mailto:sheikhsaydain@gmail.com)**
 * LinkedIn: **[https://www.linkedin.com/in/sheikhsk/](https://www.linkedin.com/in/sheikhsk/)**
-* Open to: **AI/ML Engineer, Data Scientist** roles · NYC/Remote (update as needed)
+* Open to: **AI/ML Engineer, Data Scientist** roles · Anywhere in US (Mostly NY, Texas, California, Florida, Illinois, and Colorado) · Hybrid or Remote  (update as needed)
 
 ---
