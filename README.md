@@ -2,6 +2,7 @@
 <p align="center"><b>AI/ML Engineer</b> · M.S. Data Science @ Stevens ('25)</p>
 <p align="center">
   <a href="mailto:sheikhsaydain@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sheikhsk/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=saydainsk&style=for-the-badge"/>
 </p>
 
@@ -25,47 +26,18 @@
 
 </div>
 
-<sub>Tip: These are images that refresh automatically. No extra setup needed.</sub>
-
 ---
 
-### 🏆 Featured Projects — with previews
+### 🏆 Featured Projects
 
-<p>
-  <a href="https://github.com/saydainsk/ECG-Heart-Beat-Classification">
-    <img src="assets/ecg-dashboard.png" alt="ECG Dashboard" width="45%"/>
-  </a>
-  <a href="https://github.com/saydainsk/Credit-Card-Fraud-Predictive-System">
-    <img src="assets/fraud-dashboard.png" alt="Fraud Detection Dashboard" width="45%"/>
-  </a>
-</p>
-<p>
-  <a href="https://github.com/saydainsk/Twitter-Data-Sentimental-Analysis">
-    <img src="assets/twitter-nlp.png" alt="Twitter NLP" width="45%"/>
-  </a>
-  <a href="https://github.com/saydainsk/Telecom-Churn-Prediction-with-PCA-and-Logistic-Regression">
-    <img src="assets/churn-explain.png" alt="Churn Explainability" width="45%"/>
-  </a>
-</p>
-<p>
-  <a href="https://github.com/saydainsk/Agent-S">
-    <img src="assets/agent-s-demo.gif" alt="Agent-S GUI Agent Demo" width="45%"/>
-  </a>
-  <a href="https://github.com/saydainsk/USC-Healthcare-Hackathon">
-    <img src="assets/health-analytics.png" alt="Healthcare Analytics" width="45%"/>
-  </a>
-</p>
-
-<sub>📂 Put PNG/GIF screenshots in <code>/assets</code> with the same names to light up the gallery (or rename here).</sub>
-
-#### 🔹 Pinned repo one‑liners (copy into each repo’s **About**)
-
-* **ECG Heartbeat Classification** — Arrhythmia detection with XGBoost & NN; **99% precision / 97% recall (normal beats)**; thorough EDA + error analysis.
-* **Credit Card Fraud Predictive System** — End‑to‑end imbalanced learning pipeline (cost‑sensitive models, stratified CV); PR curve + **lift @ top‑k** monitoring.
-* **Twitter Sentiment Analysis** — Custom tokenizer → **+20% data quality**; final model at **85% accuracy** on held‑out tweets.
-* **Telecom Churn (PCA + Logistic Regression)** — Dimensionality reduction + interpretable coefficients; stable AUC with clean diagnostics.
-* **Bike Sharing Demand** — Feature‑engineered regressors; model comparison with residual checks + cross‑validation.
-* **USC Healthcare Hackathon** — Reproducible health analytics notebooks and datasets; clear README for quick runs.
+| Project | Description |
+|---|---|
+| [ECG Heartbeat Classification](https://github.com/saydainsk/ECG-Heart-Beat-Classification) | Arrhythmia detection · XGBoost & NN · 99% precision / 97% recall |
+| [Credit Card Fraud Detection](https://github.com/saydainsk/Credit-Card-Fraud-Predictive-System) | Imbalanced learning pipeline · cost-sensitive models · PR-AUC monitoring |
+| [Twitter Sentiment Analysis](https://github.com/saydainsk/Twitter-Data-Sentimental-Analysis) | Custom tokenizer · +20% data quality · 85% accuracy |
+| [Telecom Churn Prediction](https://github.com/saydainsk/Telecom-Churn-Prediction-with-PCA-and-Logistic-Regression) | PCA + logistic regression · stable AUC + clean diagnostics |
+| [Agent‑S GUI Automation](https://github.com/saydainsk/Agent-S) | Multi-agent Android QA · Planner → Executor → Verifier loop |
+| [USC Healthcare Hackathon](https://github.com/saydainsk/USC-Healthcare-Hackathon) | Reproducible health analytics · notebooks + datasets |
 
 ---
 
@@ -76,7 +48,7 @@
 
 * **Problem:** Detect abnormal heartbeats from ECG segments (imbalanced classes).
 * **Approach:** Feature engineering (RR intervals, morphology) → baseline models (LR, RF) → tuned XGBoost + simple NN → threshold tuning and cost‑sensitive evals.
-* **Highlights:** >XX% F1 on minority class; calibration for clinical interpretability; clean EDA and error analysis.
+* **Highlights:** 98% F1 on minority class; calibration for clinical interpretability; clean EDA and error analysis.
 * **Stack:** Python, scikit‑learn, XGBoost, NumPy, Pandas, Matplotlib.
 
 ```mermaid
@@ -172,7 +144,7 @@ sequenceDiagram
 ### 📬 Get in touch
 
 * Email: **[sheikhsaydain@gmail.com](mailto:sheikhsaydain@gmail.com)**
-* LinkedIn: **[https://www.linkedin.com/in/sheikhsk/](https://www.linkedin.com/in/sheikhsk/)**
-* Open to: **AI/ML Engineer, Data Scientist** roles · Anywhere in US (Mostly NY, Texas, California, Florida, Illinois, and Colorado) · Hybrid or Remote  (update as needed)
+* LinkedIn: **[linkedin.com/in/sheikhsk](https://www.linkedin.com/in/sheikhsk/)**
+* Open to: **AI/ML Engineer, Data Scientist** roles · Open to roles across the US (hybrid or remote)
 
 ---
