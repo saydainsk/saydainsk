@@ -145,6 +145,6 @@ sequenceDiagram
 
 * Email: **[saydains786@gmail.com](mailto:saydains786@gmail.com)**
 * LinkedIn: **[linkedin.com/in/saydain-sheikh](https://www.linkedin.com/in/saydain-sheikh/)**
-* Open to: **AI/ML Engineer, Data Scientist** roles · Open to roles across the US (hybrid or remote)
+* Open to: **AI/ML Engineer, Data Scientist** roles · Open to roles across INDIA (Fulltime, Hybrid or Remote)
 
 ---
