@@ -35,7 +35,6 @@
 | [ECG Heartbeat Classification](https://github.com/saydainsk/ECG-Heart-Beat-Classification) | Arrhythmia detection · XGBoost & NN · 99% precision / 97% recall |
 | [Credit Card Fraud Detection](https://github.com/saydainsk/Credit-Card-Fraud-Predictive-System) | Imbalanced learning pipeline · cost-sensitive models · PR-AUC monitoring |
 | [Twitter Sentiment Analysis](https://github.com/saydainsk/Twitter-Data-Sentimental-Analysis) | Custom tokenizer · +20% data quality · 85% accuracy |
-| [Telecom Churn Prediction](https://github.com/saydainsk/Telecom-Churn-Prediction-with-PCA-and-Logistic-Regression) | PCA + logistic regression · stable AUC + clean diagnostics |
 | [Agent‑S GUI Automation](https://github.com/saydainsk/Agent-S) | Multi-agent Android QA · Planner → Executor → Verifier loop |
 | [USC Healthcare Hackathon](https://github.com/saydainsk/USC-Healthcare-Hackathon) | Reproducible health analytics · notebooks + datasets |
 
